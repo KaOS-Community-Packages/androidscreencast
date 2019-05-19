@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=0.0.13s
+Type=Application
+Name=AndroidScreenCast
+Comment=AndroidScreencast was developed to view and control your android device from a PC.
+Exec=/usr/bin/androidscreencast
+Encoding=UTF-8
+Icon=/usr/share/pixmaps/androidscreencast.png
+Categories=Network;
+Terminal=false
+StartupNotify=false
